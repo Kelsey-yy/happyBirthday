@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "birthdayGame",
+  "id": "42baa460-82e9-42ef-95f2-deff1d756cdb",
+  "version": "2.4.8",
+  "isNew": false
+}
